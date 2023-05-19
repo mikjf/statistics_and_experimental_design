@@ -1,6 +1,8 @@
 
 #data/
 data/
+
+# notebooks not shown
 basics_EDA.ipynb
 basics_descriptive_statistics.ipynb
 basics_hypothesis_testing.ipynb
