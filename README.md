@@ -5,7 +5,7 @@
 #### -- Project Status: [Active]
 
 ## Objective
-Get an overview of how exploratory data analysis, descriptive statistics, inferential statistics and hypothesis testing are leveraged to analyse data.
+Get an overview of how exploratory data analysis, descriptive statistics, inferential statistics and hypothesis testing are leveraged to analyse data and draw conclusions.
 
 ### Featured notebooks
 * [customer_data_descriptive_statistics](customer_data_descriptive_statistics.ipynb)
