@@ -2,7 +2,7 @@
 
 ![alternative text](img/readme_image.jpg)
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Completed]
 
 ## Objective
 Get an overview of how exploratory data analysis, descriptive statistics, inferential statistics and hypothesis testing are leveraged to analyse data and draw conclusions.
