@@ -11,7 +11,6 @@ Get an overview of how exploratory data analysis, descriptive statistics, infere
 * [customer_data_descriptive_statistics](customer_data_descriptive_statistics.ipynb)
 * [youtube_spam_classification](youtube_spam_classification.ipynb)
 * [geneva_covid_Rt_estimation](geneva_covid_Rt_estimation.ipynb)
-* [leukemia_generalized_linear_regression](leukemia_generalized_linear_regression.ipynb)
 
 ### Data
 * [Covid data CH](https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_CH_total.csv)
